@@ -1,6 +1,9 @@
 {
   "pack": {
-    "description": "New useful terrain features",
-    "pack_format": 71
+    "pack_format": 71,
+    "supported_formats": [71, 99],
+    "min_format": 71,
+    "max_format": 99,
+    "description": "New useful terrain features"
   }
 }
